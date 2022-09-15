@@ -110,10 +110,4 @@ I've just finished the project, and start training it. But before that, I did a 
 ![perf](https://github.com/steph1793/Voxelnet/blob/master/images/Capture3.PNG)
 ![perf2](https://github.com/steph1793/Voxelnet/blob/master/images/Capture4.PNG)
 
-# Coming next
-
-* Train of models for car detection
-* Finish multi gpu interface
-* Train models for Pedestrian and Cyclist detection
-* Try new features that I'll communicate soon
-
+#
